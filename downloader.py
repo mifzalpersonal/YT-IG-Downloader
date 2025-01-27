@@ -39,5 +39,6 @@ def main():
     else:
         print("Invalid platform!")
 
-    if __name__ == "__main__":
-        main()
+
+if __name__ == "__main__":
+    main()
